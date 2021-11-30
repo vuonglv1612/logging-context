@@ -2,26 +2,10 @@ Changelog
 =========
 
 
-1.2.1 (2021-10-03)
+0.0.1 (2021-11-30)
 ------------------
-- Doc: added usage guide. [vuonglv1612]
-- Release: version 1.2.0 🚀 [vuonglv1612]
-
-
-1.2.0 (2021-10-01)
-------------------
-- Feat: added python version. [vuonglv1612]
-- Release: version 1.1.0 🚀 [vuonglv1612]
-
-
-1.1.0 (2021-10-01)
-------------------
-- Feat: added warning echo before release. [vuonglv1612]
-- Release: version 1.0.0 🚀 [vuonglv1612]
-
-
-1.0.0 (2021-10-01)
-------------------
-- Feat: Added python project template. [vuonglv1612]
+- Added context. [Le Van Vuong]
+- Initial commit. [Le Van Vuong]
+- Create LICENSE. [Lê Văn Vương]
 
 

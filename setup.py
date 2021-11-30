@@ -36,10 +36,5 @@ setup(
     long_description=read("README.md"),
     long_description_content_type="text/markdown",
     author="vuonglv",
-    packages=find_packages(exclude=["tests"]),
-    install_requires=read_requirements("requirements.txt"),
-    entry_points={
-        "console_scripts": ["logging_context = logging_context.main:main"]
-    },
     extras_require={"dev": read_requirements("requirements-dev.txt")},
 )
