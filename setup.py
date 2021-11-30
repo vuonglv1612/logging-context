@@ -32,7 +32,7 @@ setup(
     name="logging-context",
     version=read("logging_context", "VERSION"),
     description="Python Logging Context",
-    url="logging_context",
+    url="https://github.com/vuonglv1612/logging-context",
     long_description=read("README.md"),
     long_description_content_type="text/markdown",
     author="vuonglv",
